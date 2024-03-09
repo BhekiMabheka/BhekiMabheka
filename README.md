@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bheki a Data Scientist by day and night
 - 👀 I’m interested in developing AI models
-- 🌱 I’m currently learning ML OPS
+- 🌱 I’m currently learning ML and LLM OPS
 
 
 <!---
